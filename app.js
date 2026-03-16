@@ -7,15 +7,15 @@ let mensagemErro = "";
 function preload() {
   // Carregar as imagens pela ordem da história
   imagens[0] = loadImage('2.png');
-  imagens[1] = loadImage('3.jpg');
-  imagens[2] = loadImage('4.jpg');
+  imagens[1] = loadImage('3.png');
+  imagens[2] = loadImage('4.png');
   imagens[3] = loadImage('5.png');
-  imagens[4] = loadImage('6.jpg');
+  imagens[4] = loadImage('6.png');
   imagens[5] = loadImage('7.png'); // A página do código (Página 6)
-  imagens[6] = loadImage('8.jpg');
-  imagens[7] = loadImage('9.jpg');
-  imagens[8] = loadImage('10.jpg');
-  imagens[9] = loadImage('11.jpg');
+  imagens[6] = loadImage('8.png');
+  imagens[7] = loadImage('9.png');
+  imagens[8] = loadImage('10.png');
+  imagens[9] = loadImage('11.png');
 }
 
 function setup() {
